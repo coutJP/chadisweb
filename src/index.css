@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.message{
+  color: red;
+  background-color: yellow;
+}
+.myimg{
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+.copyR{
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
