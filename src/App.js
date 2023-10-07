@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
+import img1 from './images/img.jpg'
+import img2 from './images/img2.jpg'
 function App() {
   return (
     <div className="App">
@@ -10,10 +11,10 @@ function App() {
       </p>
    
     <div>
-      <img src='./img1.jpg' alt='testimg' className='myimg'/>
+      <img src={img1} alt='testimg' className='myimg'/>
     </div>
     <div>
-      <img src='./img2.jpg' alt='testimg' className='myimg'/>
+      <img src={img2} alt='testimg' className='myimg'/>
     </div>
     <p className='copyR'>Copyright © JeanPaul Mansour, we did it in 1 min 	&#128513; </p>
     </div>
