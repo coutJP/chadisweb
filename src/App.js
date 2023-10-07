@@ -17,7 +17,7 @@ function App() {
     </div>
     <div class="flip-box-back">
       <h2>We Plan For It</h2>
-      <p>TRALALA</p>
+      <p>TRALALA la nshuf</p>
     </div>
   </div>
   </div>
