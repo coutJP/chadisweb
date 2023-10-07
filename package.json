@@ -2,7 +2,7 @@
   "name": "chadisweb",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://chadik7.github.io/chadiTat",
+  "homepage": "https://coutJP.github.io/chadisweb",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
