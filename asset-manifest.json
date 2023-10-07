@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/chadisweb/static/css/main.f8e40d1f.css",
-    "main.js": "/chadisweb/static/js/main.3a65777f.js",
+    "main.js": "/chadisweb/static/js/main.64039137.js",
     "static/js/787.ebf0e367.chunk.js": "/chadisweb/static/js/787.ebf0e367.chunk.js",
     "static/media/img2.jpg": "/chadisweb/static/media/img2.5cbfe0eb66538ca9f605.jpg",
     "static/media/img.jpg": "/chadisweb/static/media/img.1f411d81534169983817.jpg",
     "static/media/logo.svg": "/chadisweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chadisweb/index.html",
     "main.f8e40d1f.css.map": "/chadisweb/static/css/main.f8e40d1f.css.map",
-    "main.3a65777f.js.map": "/chadisweb/static/js/main.3a65777f.js.map",
+    "main.64039137.js.map": "/chadisweb/static/js/main.64039137.js.map",
     "787.ebf0e367.chunk.js.map": "/chadisweb/static/js/787.ebf0e367.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8e40d1f.css",
-    "static/js/main.3a65777f.js"
+    "static/js/main.64039137.js"
   ]
 }
