@@ -21,6 +21,9 @@ function App() {
     </div>
   </div>
   </div>
+  </div>
+  <div className='container'>
+
       <div class="flip-box">
         <div class="flip-box-inner">
         <div class="flip-box-front">
